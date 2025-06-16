@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashika-dilmina&show_icons=true&locale=en" alt="sashika-dilmina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sashika-dilmina&" alt="sashika-dilmina" /></p>
+
+![snake gif](https://github.com/Sashika-Dilmina/Sashika-Dilmina/blob/output/github-snake-dark.svg)
+   
