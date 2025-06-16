@@ -14,10 +14,18 @@
 
 ## 🧠 About Me
 
-- 🌱 I’m currently diving deeper into **Docker, Supabase & AWS**
-- 💬 Ask me about **React, Java, Python, and Fullstack Dev**
-- 📫 Reach me at: **sashikadilmina2001@gmail.com**
-- ⚡ Fun fact: *Spent 3 hours debugging a bug that vanished with a semicolon — now I treat them like gold! 😅*
+<div align="center" style="font-size: 18px; line-height: 1.6;">
+  <p>Hey there! I'm <strong>Sashika Dilmina</strong>, a passionate <strong>Fullstack Developer</strong> who loves building modern, scalable web applications and exploring new technologies.</p>
+
+  <p>🚀 I'm currently leveling up my skills in <strong>Docker</strong>, <strong>Supabase</strong>, and <strong>AWS</strong> to build better, faster, and cloud-ready applications.</p>
+
+  <p>💬 I love talking about <strong>React</strong>, <strong>Java</strong>, and <strong>Python</strong>. If you're into cool side-projects or tech chats — hit me up!</p>
+
+  <p>📫 You can reach me at: <a href="mailto:sashikadilmina2001@gmail.com">sashikadilmina2001@gmail.com</a></p>
+
+  <p>⚡ <em>Fun fact:</em> I once spent hours debugging only to realize I missed a semicolon. Since then, every semicolon is sacred. 😅</p>
+</div>
+
 
 ---
 
