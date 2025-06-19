@@ -32,7 +32,7 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:sashikadilmina2001@gmail.com">
+  <a href="mailto:sashikadilmina01exed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sashika-dilmina-87550134a" target="_blank">
