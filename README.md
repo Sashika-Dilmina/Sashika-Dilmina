@@ -21,7 +21,7 @@
 
   <p>💬 I love talking about <strong>React</strong>, <strong>Java</strong>, and <strong>Python</strong>. If you're into cool side-projects or tech chats — hit me up!</p>
 
-  <p>📫 You can reach me at: <a href="mailto:sashikadilmina2001@gmail.com">sashikadilmina2001@gmail.com</a></p>
+  <p>📫 You can reach me at: <a href="mailto:sashikadilmina01exed@gmail.com">sashikadilmina2001@gmail.com</a></p>
 
   <p>⚡ <em>Fun fact:</em> I once spent hours debugging only to realize I missed a semicolon. Since then, every semicolon is sacred. 😅</p>
 </div>
