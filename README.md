@@ -64,7 +64,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Sashika-Dilmina&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashika-Dilmina&theme=radical" alt="Streak Stats" />
+ 
 </div>
 
 ---
