@@ -79,7 +79,7 @@
 
 ## 🎨 Personal Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+<h4 align="center"><b>"Code is like humor. When you have to explain it, it’s bad."</b></h4>
 
 ---
 
