@@ -51,9 +51,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,java,c,javascript,typescript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,figma,flask,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,flask,firebase,mongodb,mysql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
 ---
